@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>csxifs.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-Zh</language>
+    <lastBuildDate>Wed, 17 Jul 2024 11:00:00 +0000</lastBuildDate>
+    <atom:link href="csxifs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>csxifs.github.io/post/20240717/</link>
+      <pubDate>Wed, 17 Jul 2024 11:00:00 +0000</pubDate>
+      <guid>csxifs.github.io/post/20240717/</guid>
+      <description>And go&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
